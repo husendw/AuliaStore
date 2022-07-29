@@ -1,0 +1,14 @@
+* {
+  text-decoration: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+form {
+  border: 2px solid #b452a4;
+  background-color: #ca46a9;
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+  margin: auto;
+}
